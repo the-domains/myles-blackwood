@@ -1,0 +1,29 @@
+name: Myles Blackwood
+favicon: null
+layout_spectrum: 0.260665126144886
+typography_spectrum: 0.11839306307956576
+title: 'a dad, in houston, wanting time with his child'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.46695293951779604
+  lightness: 0.6005428778007627
+  saturation: 0.8005534771364182
+  rhythmicContrast: 0.6608721783850342
+purpose: []
