@@ -1,20 +1,4 @@
-name: Myles Blackwood
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.71968
-title: 'a dad, in houston, wanting time with his child'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0a0c0b'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4375
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Myles Blackwood
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: bbb
+    url: 'http://blog.blackwood.bike'
+    type: external
+favicon: null
+title: 'a dad, in houston, wanting time with his child'
 purpose: []
