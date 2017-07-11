@@ -1,33 +1,42 @@
-typography_spectrum: 0.71968
+typography_spectrum: 0.3786517200060189
 color:
   brandColors:
-    - '#0a0c0b'
-    - '#dbdee7'
-    - '#6c7678'
-    - '#a19972'
-    - '#91402b'
-  brandStrength: 0.25
-  lightness: 0.4375
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.14683624124154449
+  lightness: 0.5451331352815032
+  saturation: 0.5583118428476155
+  rhythmicContrast: 0.3680834914557636
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
+layout_spectrum: 0.5238762979861349
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Myles Blackwood
+  email: myles.blackwood@gmail.com
+  url: 'https://www.facebook.com/myles.blackwood'
 name: Myles Blackwood
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: bbb
-    url: 'http://blog.blackwood.bike'
-    type: external
 favicon: null
-title: 'a dad, in houston, wanting time with his child'
-purpose: []
+title: 'a boy, his dad, and some life in between'
+description: 'okay, I''ll start here... '
+purpose:
+  - type: contact
+    url: 'mailto:myles.blackwood@gmail.com'
+    label: Contact me
+  - type: contact
+    url: 'tel:7132421847'
+    label: Call 7132421847
+content: []
+github: true
